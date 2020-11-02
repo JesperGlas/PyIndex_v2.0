@@ -1,3 +1,7 @@
+##################
+# Author: Jesper #
+##################
+
 import time
 
 from node_tree import NodeTree
